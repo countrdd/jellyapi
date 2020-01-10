@@ -717,7 +717,7 @@ export class ReportsController {
     /*
     // Group and Sort Sales Data
     */
-    console.log(sales)
+    //console.log(sales)
 
     const salesgroupKeys = ['locationId', 'Location', 'timePeriod'];
     const salessumKeys = ['NetSales', 'Qty'];
