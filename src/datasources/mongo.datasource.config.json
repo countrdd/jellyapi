@@ -1,0 +1,10 @@
+{
+  "useNewUrlParser": true,
+  "name": "mongo",
+  "connector": "mongodb",
+  "host": "71.67.82.24",
+  "port": 27017,
+  "user": "root",
+  "password": "JFT1124",
+  "database": "jelly"
+}
